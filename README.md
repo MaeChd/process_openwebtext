@@ -1,5 +1,5 @@
 # process_openwebtext
-This is a python script that works with openwebtext, Reference to the processing script [nanoGPT] (https://github.com/karpathy/nanoGPT/blob/master/data/openwebtext/prepare.py).
+This is a python script that works with openwebtext, Reference to the processing script [nanoGPT](https://github.com/karpathy/nanoGPT/blob/master/data/openwebtext/prepare.py).
 Before using this script, you need:
 Manually download the openwebtext dataset from huggingface or hf-mirror. Then, unzip them all.
 Folders are organized roughly as follows,
